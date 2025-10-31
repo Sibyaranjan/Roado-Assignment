@@ -5,10 +5,16 @@ This project is part of the assignment for the company **Roado** and is aimed at
 
 ## Tool / Technology	Purpose
 Python (Jupyter Notebook)	-Data cleaning, preprocessing & analysis
+
 Pandas	-Data manipulation & transformation
+
 NumPy-	Numerical operations
+
 Matplotlib & Seaborn-	Data visualizations
+
 Power BI	-Interactive dashboard development
+
 Excel/CSV-	Raw data storage & initial review
+
 Git & GitHub-	Version control and project hosting
 
